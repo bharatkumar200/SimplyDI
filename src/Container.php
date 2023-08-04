@@ -1,6 +1,6 @@
 <?php
 
-namespace SimlpyDi\SimplyDi;
+namespace SimplyDi\SimplyDi;
 
 class Container
 {
