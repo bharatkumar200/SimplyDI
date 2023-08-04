@@ -21,7 +21,7 @@ Container::register('content', function () {
 ```php
 namespace App\Controllers;
 
-use SimlpyDi\SimplyDi\Container;
+use SimplyDi\SimplyDi\Container;
 
 class MyController
 {
