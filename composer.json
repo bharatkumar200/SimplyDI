@@ -1,7 +1,6 @@
 {
     "name": "simplydi/simplydi",
     "description": "PHP Dependency Injection in its simplest form",
-    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
