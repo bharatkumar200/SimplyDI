@@ -1,0 +1,19 @@
+{
+    "name": "simplydi/simplydi",
+    "description": "PHP Dependency Injection in its simplest form",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimplyDi\\SimplyDi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bharat Kumar",
+            "email": "naman97034@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
